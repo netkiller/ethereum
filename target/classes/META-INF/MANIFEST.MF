@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Built-By: neo
-Build-Jdk: 11
-Implementation-Title: api.bitvaluebk.com
-Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: com.bitvaluebk
-Implementation-URL: http://maven.apache.org
-Created-By: Maven Integration for Eclipse
-
